@@ -19,6 +19,6 @@ Implemented the following user story:
 
 The URL is: https://rikrox.github.io/Horiseon-Marketing/
 
-A screenshot of the site is in the images folder: [Develop](./Develop/assets/images/site.PNG)
+A screenshot of the site is in the images folder: [assets](./assets/images/site.PNG)
 
 Repository located at: https://github.com/RikRox/Horiseon-Marketing
